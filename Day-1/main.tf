@@ -6,5 +6,3 @@ resource "aws_vpc" "main" {
   
 }
 
-## Here VPC coud reference name is venkat-vpc
-## resource local reference name is main
