@@ -1,8 +1,8 @@
-# 🚀 My Terraform Journey — 20 Days of Hands-On Learning
+# 🚀 My Terraform Journey 
 
 I’m starting my journey to learn **Terraform and Infrastructure as Code (IaC)** through hands-on AWS projects.
 
-Over these 20 days, I’ll practice Terraform concepts step by step, build AWS infrastructure, and document my learning on GitHub.
+I’ll practice Terraform concepts step by step, build AWS infrastructure, and document my learning on GitHub.
 
 **Topics I’m exploring:**
 - Terraform fundamentals and IaC
