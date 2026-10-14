@@ -1,0 +1,9 @@
+1. What is a Terraform State File?
+The terraform.tfstate file stores information about the infrastructure Terraform manages. It maps Terraform resource definitions to actual resources in your cloud environment.
+For example, if Terraform creates an AWS EC2 instance, the state file helps Terraform track that instance's AWS resource ID.
+2. Why is the state file important?
+- Tracks resources created by Terraform.
+- Maps Terraform configuration to real infrastructure.
+- Helps Terraform determine what changes are needed.
+- Supports infrastructure updates and deletion.
+- Maintains resource attributes and IDs.
