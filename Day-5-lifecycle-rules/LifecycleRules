@@ -1,0 +1,27 @@
+
+Terraform Resource Configuration
+main.tf
+
+
+lifecycle 
+
+prevent_destroy
+Blocks plans that would destroy a resource while this rule is configured.
+
+
+create_before_destroy
+Creates a replacement before destroying the existing resource when possible.
+
+
+ignore_changes
+Ignores selected attribute differences during updates.
+
+
+replace_triggered_by
+Triggers replacement when a specified resource or attribute change requires it.
+
+
+
+
+Terraform Plan → Apply
+Review changes before applying them.
